@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sorting-algorithm-visualization/static/css/main.5d32f627.chunk.css",
+    "main.js": "/sorting-algorithm-visualization/static/js/main.7ee56ec0.chunk.js",
+    "main.js.map": "/sorting-algorithm-visualization/static/js/main.7ee56ec0.chunk.js.map",
+    "runtime-main.js": "/sorting-algorithm-visualization/static/js/runtime-main.035b6ecb.js",
+    "runtime-main.js.map": "/sorting-algorithm-visualization/static/js/runtime-main.035b6ecb.js.map",
+    "static/js/2.ea304524.chunk.js": "/sorting-algorithm-visualization/static/js/2.ea304524.chunk.js",
+    "static/js/2.ea304524.chunk.js.map": "/sorting-algorithm-visualization/static/js/2.ea304524.chunk.js.map",
+    "index.html": "/sorting-algorithm-visualization/index.html",
+    "static/css/main.5d32f627.chunk.css.map": "/sorting-algorithm-visualization/static/css/main.5d32f627.chunk.css.map",
+    "static/js/2.ea304524.chunk.js.LICENSE.txt": "/sorting-algorithm-visualization/static/js/2.ea304524.chunk.js.LICENSE.txt",
+    "static/media/logo.050b2c51.png": "/sorting-algorithm-visualization/static/media/logo.050b2c51.png",
+    "static/media/logo2.439addb2.png": "/sorting-algorithm-visualization/static/media/logo2.439addb2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.035b6ecb.js",
+    "static/js/2.ea304524.chunk.js",
+    "static/css/main.5d32f627.chunk.css",
+    "static/js/main.7ee56ec0.chunk.js"
+  ]
+}
